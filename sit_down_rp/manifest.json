@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Sit Down Resource Pack",
+        "name": "Sit anywhere",
+        "uuid": "d3aab618-73c0-4253-befd-48aa87f6b85e",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Sit on Stairs",
+            "type": "resources",
+            "uuid": "dd2f2e5f-de61-4fb0-b7df-043f154dd1f4",
+            "version": [1, 0, 0]
+        }
+    ]
+}
