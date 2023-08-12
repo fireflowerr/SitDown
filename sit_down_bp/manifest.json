@@ -5,7 +5,7 @@
 		"description": "Sit down anywhere",
 		"uuid": "d1486708-6a4b-4c9b-a3b1-c9dfe317ace8",
 		"min_engine_version": [1, 19, 40],
-		"version": [1, 0, 0]
+		"version": [1, 0, 1]
 	},
 	"modules": [
 		{
@@ -13,12 +13,25 @@
 			"type": "data",
 			"uuid": "3bee9203-f168-42b7-94c7-311284908e69",
 			"version": [1, 0, 0]
+		},
+		{
+			"description": "Gametest Module",
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/index.js",
+			"uuid": "99358e22-43b6-4102-8b69-00219968d114",
+			"version": [1, 0, 0]
 		}
+
 	],
 	"dependencies": [
 		{
 			"uuid": "d3aab618-73c0-4253-befd-48aa87f6b85e",
-			"version": [1, 0, 0]
+			"version": [1, 0, 1]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.4.0-beta"
 		}
   ]
 }

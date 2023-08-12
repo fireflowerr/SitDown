@@ -4,7 +4,7 @@
         "description": "Sit Down Resource Pack",
         "name": "Sit anywhere",
         "uuid": "d3aab618-73c0-4253-befd-48aa87f6b85e",
-        "version": [1, 0, 0],
+        "version": [1, 0, 1],
         "min_engine_version": [ 1, 20, 0 ]
     },
     "modules": [
